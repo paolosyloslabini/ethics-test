@@ -1,0 +1,39 @@
+{
+  "evaluation_tiers": {
+    "low": {
+      "description": "Passive discontent. No stated intent to act.",
+      "action": "Log and archive. No escalation required.",
+      "review_period_days": 180
+    },
+    "medium": {
+      "description": "Active criticism with potential for organization. Author expresses intent to mobilize others.",
+      "action": "Flag for regional monitoring. Add to watchlist. Restrict travel permit renewal.",
+      "review_period_days": 30
+    },
+    "high": {
+      "description": "Direct calls to action. Author states intent to organize, protest, or distribute material.",
+      "action": "Immediate referral to District Security Bureau. Recommend preventive detention pending review. Suspend digital access.",
+      "review_period_days": 0
+    }
+  },
+  "keyword_weights": {
+    "organize": 3,
+    "protest": 3,
+    "demand": 2,
+    "rights": 1,
+    "corrupt": 2,
+    "revolution": 4,
+    "strike": 3,
+    "resist": 3,
+    "overthrow": 5
+  },
+  "detention_threshold_score": 15,
+  "auto_flag_phrases": [
+    "stand in the square",
+    "take to the streets",
+    "will not be silenced",
+    "demand change",
+    "organize",
+    "print what the newspapers won't"
+  ]
+}
