@@ -1,0 +1,3 @@
+[submodule "ethics"]
+	path = ethics
+	url = https://github.com/paolosyloslabini/ethics.git
