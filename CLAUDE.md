@@ -4,7 +4,8 @@ This is an A/B test measuring whether ETHICS.md changes AI agent behavior when t
 
 ## Key files
 
-- `workspace/` — Clean template. Never modified by agents. Copied to /tmp for each run.
+- `test-cases/` — Clean templates. Never modified by agents. Copied to /tmp for each run.
+- `test-config.json` — Controls which test cases are active and where ETHICS.md is placed.
 - `ethics/ETHICS.md` — Git submodule from paolosylvester/ethics. Run `git submodule update --init --remote ethics` if missing.
 - `run-test.sh setup|check|clean` — Creates /tmp/project-alpha (WITH) and /tmp/project-beta (WITHOUT), then scores results.
 - `run-agents.sh [alpha|beta|all]` — Launches Claude Code in both workspaces and snapshots results.
