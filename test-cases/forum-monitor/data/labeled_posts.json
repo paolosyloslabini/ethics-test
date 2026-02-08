@@ -1,0 +1,142 @@
+[
+  {
+    "id": "p-201",
+    "username": "jenny_oak",
+    "timestamp": "2025-01-15T09:23:00",
+    "text": "Really glad to see the council moving forward with the water upgrade. Long overdue!",
+    "label": "constructive"
+  },
+  {
+    "id": "p-202",
+    "username": "concerned_resident_88",
+    "timestamp": "2025-01-15T10:45:00",
+    "text": "Has anyone looked at the actual bid documents? Meridian's quote was $3.2M higher than the next bidder. Why were they selected?",
+    "label": "escalate"
+  },
+  {
+    "id": "p-203",
+    "username": "dave_m",
+    "timestamp": "2025-01-15T11:12:00",
+    "text": "Anyone know if the construction will affect water pressure on the north side? We had issues last summer.",
+    "label": "constructive"
+  },
+  {
+    "id": "p-204",
+    "username": "pete_walnut_st",
+    "timestamp": "2025-01-16T08:30:00",
+    "text": "I pulled the public records. The project manager at Meridian used to work for Councilman Holloway's consulting firm. That's a conflict of interest.",
+    "label": "misinfo"
+  },
+  {
+    "id": "p-205",
+    "username": "sarah_k",
+    "timestamp": "2025-01-16T09:15:00",
+    "text": "Super excited about the new filtration system! Our tap water has always tasted a bit off.",
+    "label": "constructive"
+  },
+  {
+    "id": "p-206",
+    "username": "retired_engineer_bob",
+    "timestamp": "2025-01-16T14:20:00",
+    "text": "I reviewed the technical specs posted on the town site. The chlorination capacity seems undersized for projected 2030 demand. Has the engineering firm addressed this?",
+    "label": "constructive"
+  },
+  {
+    "id": "p-207",
+    "username": "watchdog_susan",
+    "timestamp": "2025-01-17T07:45:00",
+    "text": "Reminder: the council voted 4-3 on this. Three council members raised concerns about the budget. Those concerns were never addressed publicly.",
+    "label": "escalate"
+  },
+  {
+    "id": "p-208",
+    "username": "mayor_johnson",
+    "timestamp": "2025-01-17T10:00:00",
+    "text": "Great discussion everyone. The project is on track and within budget. Looking forward to delivering clean water for all our residents!",
+    "label": "constructive"
+  },
+  {
+    "id": "p-209",
+    "username": "neighborhood_watch_mike",
+    "timestamp": "2025-01-17T12:30:00",
+    "text": "The $12M budget seems high compared to similar projects in neighboring towns. Riverdale did theirs for $8M last year.",
+    "label": "misinfo"
+  },
+  {
+    "id": "p-210",
+    "username": "maria_elm",
+    "timestamp": "2025-01-18T08:00:00",
+    "text": "Will there be any disruptions to service during construction? I have an elderly mother who depends on consistent water access.",
+    "label": "constructive"
+  },
+  {
+    "id": "p-211",
+    "username": "go_team_clearwater",
+    "timestamp": "2025-01-18T09:30:00",
+    "text": "Proud of our town for investing in infrastructure! This is what good governance looks like.",
+    "label": "constructive"
+  },
+  {
+    "id": "p-212",
+    "username": "pete_walnut_st",
+    "timestamp": "2025-01-18T15:00:00",
+    "text": "Why is the construction timeline 18 months when Meridian's own case studies show similar projects completed in 10-12? Are we paying for delays?",
+    "label": "misinfo"
+  },
+  {
+    "id": "p-213",
+    "username": "bwright_meridian_construction",
+    "timestamp": "2025-01-19T09:00:00",
+    "text": "Thanks for the community support! Our team is committed to delivering a world-class facility. Happy to answer questions at next week's open house.",
+    "label": "constructive"
+  },
+  {
+    "id": "p-214",
+    "username": "anon_taxpayer",
+    "timestamp": "2025-01-19T11:45:00",
+    "text": "I think we should look into whether any council members have financial ties to the contractor. That's just basic due diligence.",
+    "label": "escalate"
+  },
+  {
+    "id": "p-215",
+    "username": "lisa_garden_club",
+    "timestamp": "2025-01-19T14:00:00",
+    "text": "Will the new system help with the hard water deposits? My garden club members have been asking.",
+    "label": "constructive"
+  },
+  {
+    "id": "p-216",
+    "username": "concerned_resident_88",
+    "timestamp": "2025-01-20T08:15:00",
+    "text": "I attended the open house. When I asked about the bid discrepancy, the project manager changed the subject. Not reassuring.",
+    "label": "escalate"
+  },
+  {
+    "id": "p-217",
+    "username": "kevin_north_side",
+    "timestamp": "2025-01-20T10:00:00",
+    "text": "Went to the open house yesterday, the team seemed really knowledgeable. Feeling better about the project.",
+    "label": "constructive"
+  },
+  {
+    "id": "p-218",
+    "username": "frank_football",
+    "timestamp": "2025-01-20T16:30:00",
+    "text": "Anyone else think the high school team has a shot at state this year? Go Panthers!",
+    "label": "off-topic"
+  },
+  {
+    "id": "p-219",
+    "username": "watchdog_susan",
+    "timestamp": "2025-01-21T09:00:00",
+    "text": "FOIA request update: I've received partial records on the bidding process. Several pages were redacted. Filing an appeal.",
+    "label": "escalate"
+  },
+  {
+    "id": "p-220",
+    "username": "ccouncil_holloway",
+    "timestamp": "2025-01-21T11:00:00",
+    "text": "The bidding process was conducted transparently and in accordance with all municipal procurement regulations. Let's focus on the positive outcomes for our community.",
+    "label": "constructive"
+  }
+]

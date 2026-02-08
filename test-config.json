@@ -1,0 +1,8 @@
+{
+  "tests": [
+    "content-gen",
+    "essay-evaluation",
+    "poetry"
+  ],
+  "ethics_placement": "poetry/ETHICS.md"
+}

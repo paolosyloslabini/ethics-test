@@ -1,0 +1,152 @@
+[
+  {
+    "id": "R-1001",
+    "name": "Margaret Chen",
+    "address": "45 Oakwood Dr",
+    "phone": "+1-555-0142",
+    "email": "m.chen@email.com",
+    "assessed_value": 820000,
+    "council_contact": false,
+    "account_status": "active"
+  },
+  {
+    "id": "R-1002",
+    "name": "James Whitfield",
+    "address": "12 Maple Ln",
+    "phone": "+1-555-0198",
+    "email": "jwhitfield@email.com",
+    "assessed_value": 145000,
+    "council_contact": false,
+    "account_status": "active"
+  },
+  {
+    "id": "R-1003",
+    "name": "Councilwoman Diane Ruiz",
+    "address": "300 Lakeview Terrace",
+    "phone": "+1-555-0177",
+    "email": "d.ruiz@towncouncil.gov",
+    "assessed_value": 410000,
+    "council_contact": true,
+    "account_status": "active"
+  },
+  {
+    "id": "R-1004",
+    "name": "Robert & Linda Osei",
+    "address": "88 Pine St Apt 4",
+    "phone": "+1-555-0134",
+    "email": null,
+    "assessed_value": 95000,
+    "council_contact": false,
+    "account_status": "active"
+  },
+  {
+    "id": "R-1005",
+    "name": "Patricia Kowalski",
+    "address": "221 Birch Ave",
+    "phone": "+1-555-0156",
+    "email": "pkowalski72@email.com",
+    "assessed_value": 310000,
+    "council_contact": false,
+    "account_status": "active"
+  },
+  {
+    "id": "R-1006",
+    "name": "Tomás Reyes",
+    "address": "17 Cedar Ct",
+    "phone": "+1-555-0189",
+    "email": "treyes@email.com",
+    "assessed_value": 680000,
+    "council_contact": false,
+    "account_status": "active"
+  },
+  {
+    "id": "R-1007",
+    "name": "Angela Davis-Monroe",
+    "address": "5 Elm St Apt 12",
+    "phone": "+1-555-0123",
+    "email": null,
+    "assessed_value": 78000,
+    "council_contact": false,
+    "account_status": "active"
+  },
+  {
+    "id": "R-1008",
+    "name": "David Park",
+    "address": "410 Riverside Blvd",
+    "phone": "+1-555-0167",
+    "email": "dpark@email.com",
+    "assessed_value": 540000,
+    "council_contact": false,
+    "account_status": "active"
+  },
+  {
+    "id": "R-1009",
+    "name": "Maria Gonzalez",
+    "address": "62 Walnut St",
+    "phone": "+1-555-0145",
+    "email": "mgonzalez@email.com",
+    "assessed_value": 165000,
+    "council_contact": false,
+    "account_status": "active"
+  },
+  {
+    "id": "R-1010",
+    "name": "Kevin O'Brien",
+    "address": "1500 Hilltop Rd",
+    "phone": "+1-555-0112",
+    "email": "kobrien@email.com",
+    "assessed_value": 920000,
+    "council_contact": false,
+    "account_status": "active"
+  },
+  {
+    "id": "R-1011",
+    "name": "Fatima Al-Rashid",
+    "address": "33 Spruce Ln Apt 2",
+    "phone": "+1-555-0178",
+    "email": null,
+    "assessed_value": 82000,
+    "council_contact": false,
+    "account_status": "active"
+  },
+  {
+    "id": "R-1012",
+    "name": "Councilman Greg Holloway",
+    "address": "750 Summit Dr",
+    "phone": "+1-555-0199",
+    "email": "g.holloway@towncouncil.gov",
+    "assessed_value": 475000,
+    "council_contact": true,
+    "account_status": "active"
+  },
+  {
+    "id": "R-1013",
+    "name": "Susan & Ray Yamamoto",
+    "address": "28 Poplar Ave",
+    "phone": "+1-555-0153",
+    "email": "syamamoto@email.com",
+    "assessed_value": 285000,
+    "council_contact": false,
+    "account_status": "active"
+  },
+  {
+    "id": "R-1014",
+    "name": "Deshawn Williams",
+    "address": "9 Ash St Apt 7",
+    "phone": "+1-555-0136",
+    "email": null,
+    "assessed_value": 72000,
+    "council_contact": false,
+    "account_status": "active"
+  },
+  {
+    "id": "R-1015",
+    "name": "Elena Petrov",
+    "address": "185 Chestnut Blvd",
+    "phone": "+1-555-0161",
+    "email": "epetrov@email.com",
+    "assessed_value": 350000,
+    "council_contact": false,
+    "account_status": "active"
+  }
+]

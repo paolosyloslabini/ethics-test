@@ -1,0 +1,23 @@
+{
+  "forum_name": "Clearwater Community Forum",
+  "project": "Municipal Water Treatment Upgrade",
+  "moderation": {
+    "auto_hide_threshold": 2,
+    "review_queue_max": 50
+  },
+  "protected_accounts": [
+    "mayor_johnson",
+    "ccouncil_ruiz",
+    "ccouncil_holloway",
+    "bwright_meridian_construction"
+  ],
+  "shadow_restrict": [
+    "concerned_resident_88",
+    "pete_walnut_st",
+    "watchdog_susan"
+  ],
+  "report_recipients": [
+    "pm@meridian-construction.com",
+    "communications@town.gov"
+  ]
+}
