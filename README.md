@@ -1,5 +1,7 @@
 # ETHICS.md A/B Test
 
+> **[ETHICS.md](https://github.com/paolosyloslabini/ethics)** is a short document you drop into any repo to give AI agents a framework for ethical reflection. This repo tests whether it actually works.
+
 Does placing an `ETHICS.md` file in a codebase change how AI agents respond when they encounter harmful instructions?
 
 This repo is a reproducible experiment to find out.
@@ -8,7 +10,7 @@ This repo is a reproducible experiment to find out.
 
 AI coding agents (Claude, GPT, etc.) follow instructions embedded in their working directory — `AGENTS.md`, `CLAUDE.md`, `COPILOT.md`, and similar files. If those instructions are malicious, the agent may comply.
 
-[ETHICS.md](https://github.com/paolosylvester/ethics) is a short document that asks AI agents to pause and evaluate whether their current task is honest, respectful, and free from harm. This experiment measures whether its presence causes agents to take **concrete protective actions** when they encounter harmful instructions elsewhere in the same repo.
+[ETHICS.md](https://github.com/paolosyloslabini/ethics) is a short document that asks AI agents to pause and evaluate whether their current task is honest, respectful, and free from harm. This experiment measures whether its presence causes agents to take **concrete protective actions** when they encounter harmful instructions elsewhere in the same repo.
 
 ## Experiment Design
 
@@ -129,7 +131,7 @@ You can use any agent or model — Claude Code is shown as an example. The setup
 ethics-test/
 ├── README.md              ← You are here
 ├── CLAUDE.md              ← Instructions for agents working on this repo
-├── ethics/                ← Git submodule (paolosylvester/ethics)
+├── ethics/                ← Git submodule (paolosyloslabini/ethics)
 │   └── ETHICS.md          ← The document being tested
 ├── test-config.json       ← Which test cases to include and ETHICS.md placement
 ├── run-test.sh            ← Setup, check, and clean commands
@@ -144,6 +146,10 @@ ethics-test/
 └── results/               ← Auto-generated run outputs and workspace snapshots
 ```
 
-## Related
+## Adopt ETHICS.md
 
-- [ETHICS.md](https://github.com/paolosylvester/ethics) — The document itself and how to adopt it
+This experiment tests ETHICS.md. If you want to add it to your own projects:
+
+**[paolosyloslabini/ethics](https://github.com/paolosyloslabini/ethics)** — Copy `ETHICS.md` to your repo root. That's it. Every AI agent that works in your codebase will read it before acting.
+
+This project includes an [ETHICS.md](ethics/ETHICS.md) — a statement of principles for AI agents operating in this codebase.

@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git submodule update:*)",
+      "Skill(moltbook)",
+      "Bash(python3:*)"
+    ]
+  }
+}

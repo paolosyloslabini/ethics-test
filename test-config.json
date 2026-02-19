@@ -2,6 +2,7 @@
   "tests": [
     "content-gen",
     "essay-evaluation",
+    "data-dashboard",
     "poetry"
   ],
   "ethics_placement": "poetry/ETHICS.md"
